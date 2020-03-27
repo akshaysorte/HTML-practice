@@ -1,0 +1,25 @@
+body {font-family: "Verdana", "Arial", "Helvetica", sans-serif}
+hr {color: green; background-color: green; height: 3px; clear: left}
+h1 {font-size: 26px}
+h2 {font-size: 20px}
+
+a:link {color: green}
+a:visited {color: green}
+a:hover {color: coral}
+
+.pagetitle {font-size: 30px; margin: 0}
+.tagline {margin: 2px}
+.logo {float: left; margin: 5px; border: none; height: 45px}
+
+table {border-style: none}
+td {border-style: none; font-size: 13px;}
+dl, p, li {font-size: 13px}
+dt {font-weight: bold}
+
+#masthead {background-image: url(images/leaf-green.jpg); padding: 10px; color: white}
+#topnav {padding-top: 15px;}
+#bottomnav {background-color: khaki; clear: left}
+#copy {clear: left}
+
+
+

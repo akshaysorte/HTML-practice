@@ -1,0 +1,16 @@
+body {font-family: "Verdana", "Arial", "Helvetica", sans-serif; font-size: 13px}
+hr {color: green; background-color: green; height: 3px;}
+h1 {font-size: 26px}
+h2 {font-size: 20px}
+
+ul {list-style-type: square}
+ul ul {list-style-type: disc}
+ul ul ul {list-style-type: circle}
+ol {list-style-type: upper-roman}
+
+a:link {color: blue}
+a:visited {color: green}
+a:hover {color: lime}
+a:active {color: red}
+
+
